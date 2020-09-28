@@ -106,3 +106,6 @@ dist
 # Config files
 auth.json
 .env
+
+#Webstorm files
+.idea/
